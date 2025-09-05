@@ -1,0 +1,29 @@
+commit ec2b5e05e6bb71b798d840844c469de654535700
+Author: hastagloser <justingip122@gmail.com>
+Date:   Thu Sep 4 22:52:35 2025 -0700
+
+    Add favorite game div in index.html
+
+commit 5efbab0067026a4cc90d6fade820b6cada8fa776
+Author: hastagloser <justingip122@gmail.com>
+Date:   Thu Sep 4 22:46:13 2025 -0700
+
+    Add favorite food div in index.html
+
+commit 16d04108ff1545b2bf14d3d7adcc3b60ce9f217f
+Author: hastagloser <justingip122@gmail.com>
+Date:   Thu Sep 4 22:38:09 2025 -0700
+
+    Add README.md
+
+commit 6cfd45175b9a1b9712efb986e7bc8068d4d060d9
+Author: hastagloser <justingip122@gmail.com>
+Date:   Thu Sep 4 22:22:22 2025 -0700
+
+    Filled in the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
